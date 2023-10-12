@@ -48,3 +48,9 @@ Optimizing the most out of contracts through Assembly and Yul!
 Understanding how the EVM works under the hood with cool bytecode puzzles. Step by step solutions inside project readme.
 - [evm-puzzles](https://github.com/Farber98/evm-puzzles)
 <br>
+
+## 📚 Theory
+What would practice be without theory? Here are some resources I used to leverage my building skills
+- [Roadmap](https://mattaereal.notion.site/matta-s-Ethereum-security-road-map-cf7d7f2e48ea4aa0a8f4a2eff86342a7): The roadmap I've been following for the last year. Currently on step 9 with Immunefi onboarding 😅
+- [Secureum Bootcamp](https://github.com/Farber98/secureum-bootcamp)
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)

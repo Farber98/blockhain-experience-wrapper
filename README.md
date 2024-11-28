@@ -5,7 +5,7 @@ Repo to wrap up some of my hands-on blockchain experience!
 
 ## 🔨 Projects
 Building time! 
-- [SlamJam Homerun](https://github.com/Farber98/slamjam-homerun-v1): Program to connect [SlamJam Homerun game](https://www.slamjamhomerun.io/) with Solana. Written in Rust using Anchor Framework.
+- [SlamJam Homerun](https://github.com/Farber98/slamjam-homerun-v1): Program to connect SlamJam Homerun game with Solana. Written in Rust using Anchor Framework.
 - [Encode Graduation Project](https://github.com/Farber98/FinalProject): Snake game dApp where players stake bets and winner takes pot. Play [here](https://encodeteam2.github.io/FinalProject/). Used Hardhat.
 - [Encode Voting dApp](https://github.com/EncodeTeam2/week4project): Fullstack Voting dApp application using Hardhat.
 <br>
